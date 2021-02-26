@@ -26,7 +26,8 @@ The sizes of Mini Game subpackages are restricted as follows:
 The total size of all subpackages of a Mini Game cannot exceed 16 MB.
 A single subpackage or main package cannot exceed 4 MB.
 ```
-Details see: https://developers.weixin.qq.com/minigame/dev/guide/base-ability/sub-packages.html
+Details see: https://developers.weixin.qq.com/minigame/en/dev/guide/base-ability/sub-packages.html
+PS: The content `The total size of all subpackages of a Mini Game cannot exceed 8 MB.` in document is a bit old, the correct value is 16 MB.
 
 ### File Types
 The types of files that can be uploaded are limited for Mini Programs. Only the following file types are supported:
